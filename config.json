@@ -1,6 +1,6 @@
 {
-    "name": "Module RFID",
-    "description": "Thư viện cho module RFID đọc thẻ từ",
+    "name": "Module RFID I2C",
+    "description": "Mục mở rộng YoloUNO cho module RFID 13.56MHz",
     "libs": [
         "rfid.py",
         "rfid_expansion.py"
@@ -13,5 +13,5 @@
         "en": "languages/en.js",
         "vi": "languages/vi.js"
     },
-    "poster": "poster.jpg"
+    "poster": "poster.png"
 }
